@@ -26,7 +26,7 @@ To maintain the quality of projects in Good First Issue, please make sure your G
 | README.md | Detailed setup instructions |
 | CONTRIBUTING.md | Guidelines for new contributors |
 | Active Maintenance | Recent commits and activity |
-| License | Valid open source license |
+| License | Valid open source license |   
 
 Once your submission is reviewed and approved, it will be added to [goodfirstissue.dev](https://goodfirstissue.dev/).
 
